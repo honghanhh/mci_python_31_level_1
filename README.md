@@ -22,7 +22,7 @@ For example: hanhtth_assignment_01.ipynb
 ```
 git add .
 git commit -m"Write your message here"
-git push origin master
+git push origin main
 ```
 
 Please enjoy and have fun with Python class!

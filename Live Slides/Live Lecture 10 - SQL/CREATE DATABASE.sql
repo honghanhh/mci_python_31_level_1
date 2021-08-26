@@ -1,0 +1,2 @@
+create schemal databasename
+use databasename
